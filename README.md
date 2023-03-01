@@ -8,6 +8,7 @@ I'm Slivkina Ksenia - first year student of HSE university enrolled in the Maste
 
 - [Machine Learning Course](https://github.com/Ksenia28-S/MachineLearning.git) 
 - [Python Course](https://github.com/Ksenia28-S/PracticePython.git) 
+- [Digital signal processing](https://github.com/Ksenia28-S/Lab_DSP.git) 
 
 ### Tools
 - Languages
